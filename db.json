@@ -4,38 +4,38 @@
   "projects": [
     {
       "name": "Victimologia",
-      "description": "Siteo web para universidad criminología delitos odio",
+      "description": "Universidad criminologia",
       "lenguajes": ["Python", "HTML", "JavaScript", "Docker"],
       "url": "Victimologia.site"
     },
     {
       "name": "NextCloud",
-      "description": "Lugar seguro archivos contactos",
+      "description": "Archivos seguros",
       "lenguajes": ["Shell", "PHP", "Dockerfile"],
       "url": "https://github.com/nextcloud/docker"
     },
     {
       "name": "DEMto3D-Plugin",
-      "description": "Extensión 3D QGIS",
+      "description": "Plugin 3D QGIS",
       "lenguajes": ["Python"],
       "url": "https://github.com/jawensi/DEMto3D-QGIS-Plugin"
     }
   ],
   "testimonials": [
     {
-      "name": "Jose Antonio Hernandez Humanes",
-      "puesto": "Coordinador proyectos SAS Cádiz",
-      "texto": "He trabajado con él, siempre dispuesto nuevas ideas"
+      "name": "Jose Antonio Hernandez",
+      "puesto": "Coordinador SAS",
+      "texto": "Siempre dispuesto ideas"
     },
     {
-      "name": "Francisco Porta borge",
+      "name": "Francisco Porta",
       "puesto": "Trabajador",
-      "texto": "Ha sido un jefe increíble"
+      "texto": "Jefe increible"
     },
     {
-      "name": "Enrique franco bulri",
-      "puesto": "Limpiador piscinas",
-      "texto": "Siempre escuchado recomendaciones"
+      "name": "Enrique Franco",
+      "puesto": "Limpiador",
+      "texto": "Siempre escuchado"
     }
   ]
 }
