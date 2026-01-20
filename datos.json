@@ -1,0 +1,39 @@
+{
+    "name":"fabian",
+    "lastname":"Dominguez Casado",
+    "projects":[
+        {"name":"Victimologia",
+        "description":"Siteo web, para un trabajo de la universidad de criminologia encrontra a los delitos de odio",
+        "lenguajes":["Python","HTML","JavaScript","Docker"],
+        "url":"Victimologia.site"
+        
+    },
+        {"name":"NextCloud",
+        "description":"Es un lugar seguro donde poder guardar tus archivos, ficheros, contactos, etc",
+        "lenguajes":["Shell", "PHP", "Dockerfile"],
+        "url":"https://github.com/nextcloud/docker"
+
+    },
+        {"name":"DEMto3D-Plugin",
+        "description":"Extensión para impresión 3D de MDE (Modelos Digitales de Elevaciones) sobre QGIS",
+        "lenguajes":["Python"],
+        "url":"https://github.com/jawensi/DEMto3D-QGIS-Plugin"   
+    }
+    
+    ],
+    "testimonials":[
+        {"name":"Jose Antonio Hernandez Humanes",
+        "puesto":"Cordinador de pryectos del SAS cadiz",
+         "texto":"He trabajado en el mismo equipo que el y simpre estaba dispuesto a nuevos planes, nuevas ideas"
+    },
+        {"name":"Francisco Porta borge",
+        "puesto":"Trabajador",
+        "texto":"Ha sido un jefe increible en los proyectos que he estado con el"
+    },
+        {"name":"Enrique franco bulri",
+        "puesto":"Limpiador de picinas",
+        "texto":"Simpre a escuchado las recomendacines de los demas"
+    }
+
+    ]
+}
